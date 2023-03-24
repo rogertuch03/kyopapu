@@ -1,0 +1,48 @@
+h1{
+    font-family: 'Amatic SC', cursive;
+    color: orchid;
+  }
+  h2{
+    font-size: 70px;
+    color: rgba(166, 76, 218, 0.925);
+    font-family: 'Fraktur';
+  }
+  h3{
+    font-size: 45px;
+    font-family: 'Amatic SC', cursive;
+    color: orchid;
+  }
+  p{
+    font-size: 40px;
+    color: rgb(248, 202, 202);
+    background-image: url('https://media.tenor.com/a1iw8cAQKisAAAAS/dance-dance-moves.gif');
+  }
+  ul,
+  ol, {
+    font-size: 20px;
+  }
+  img{
+    width: 250px;
+  border-width: 5px;
+  border-color: rgb(226, 43, 186);
+  border-style: outset;
+  }
+  .bordes-redondeados{
+    border-radius: 55px;
+  }
+  
+  table {
+	width: 100%;
+	height: 800px;
+    
+}
+/* Large rounded green border */
+hr {
+    border: 10px solid rgb(196, 101, 199);
+    border-radius: 5px;
+    
+  }
+table td {
+    background-image: url('https://media.tenor.com/Yr7TzPgz9ocAAAAC/kyoresu.gif');;
+    border: rgb(223, 98, 167) 2px solid;
+  }
